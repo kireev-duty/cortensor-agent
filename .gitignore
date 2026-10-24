@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.omhome/
+.omecho/
+.openminion/
+.env
+label_plan.json
+triage_report.*
